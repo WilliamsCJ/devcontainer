@@ -1,6 +1,6 @@
 {
-  "settings": { 
-		"terminal.integrated.shell.linux": "/bin/zsh",
-    "editor.tabSize": 4
+    "settings": { 
+	    "terminal.integrated.shell.linux": "/bin/zsh",
+        "editor.tabSize": 4
 	}
 }
